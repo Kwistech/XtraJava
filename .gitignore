@@ -1,8 +1,5 @@
 *.class
-
-# Included with Eclipse
-*.classpath
-*.project
+*.gitmodules
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
