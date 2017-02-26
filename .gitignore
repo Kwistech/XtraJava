@@ -1,4 +1,6 @@
 *.class
+
+# Included with Eclipse
 *.classpath
 *.project
 
