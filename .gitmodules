@@ -1,3 +1,6 @@
 [submodule "VisualMetronome"]
 	path = VisualMetronome
 	url = https://gist.github.com/0f976991913fb6f86ea3f954eb30d1a5.git
+[submodule "8095ec605cf7cecc44bfafc4e63fcb3c"]
+	path = 8095ec605cf7cecc44bfafc4e63fcb3c
+	url = https://gist.github.com/8095ec605cf7cecc44bfafc4e63fcb3c.git
