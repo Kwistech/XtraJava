@@ -5,5 +5,5 @@
 	path = CompletionDays
 	url = https://gist.github.com/8095ec605cf7cecc44bfafc4e63fcb3c.git
 [submodule "wordCounter"]
-	path = wordCounter
+	path = WordCounter
 	url = https://gist.github.com/0c13ab59342cd26c9acbe65d2ef7c3dc.git
