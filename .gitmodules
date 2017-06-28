@@ -7,3 +7,6 @@
 [submodule "wordCounter"]
 	path = WordCounter
 	url = https://gist.github.com/0c13ab59342cd26c9acbe65d2ef7c3dc.git
+[submodule "42f9602b80e34cd58cd0ef4aecc92ae8"]
+	path = CopyFile
+	url = https://gist.github.com/42f9602b80e34cd58cd0ef4aecc92ae8.git
