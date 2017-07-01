@@ -10,3 +10,6 @@
 [submodule "42f9602b80e34cd58cd0ef4aecc92ae8"]
 	path = CopyFile
 	url = https://gist.github.com/42f9602b80e34cd58cd0ef4aecc92ae8.git
+[submodule "ChatBot"]
+	path = ChatBot
+	url = https://gist.github.com/434154d113dd107df2e7615bd2322a81.git
