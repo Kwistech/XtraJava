@@ -13,3 +13,6 @@
 [submodule "ChatBot"]
 	path = ChatBot
 	url = https://gist.github.com/434154d113dd107df2e7615bd2322a81.git
+[submodule "DiceRoller"]
+	path = DiceRoller
+	url = https://gist.github.com/78cde16fef6f9fa4777841dbbd462191.git
