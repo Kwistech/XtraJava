@@ -16,3 +16,6 @@
 [submodule "DiceRoller"]
 	path = DiceRoller
 	url = https://gist.github.com/78cde16fef6f9fa4777841dbbd462191.git
+[submodule "ConsoleTimer"]
+	path = ConsoleTimer
+	url = https://gist.github.com/c281e92a2d7e2ba736e6382f02adfe30.git
