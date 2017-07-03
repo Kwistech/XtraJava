@@ -19,3 +19,6 @@
 [submodule "ConsoleTimer"]
 	path = ConsoleTimer
 	url = https://gist.github.com/c281e92a2d7e2ba736e6382f02adfe30.git
+[submodule "MusicPlayer"]
+	path = MusicPlayer
+	url = https://gist.github.com/568d4cbaba64de14c8e1b91e38466065.git
