@@ -22,3 +22,6 @@
 [submodule "MusicPlayer"]
 	path = MusicPlayer
 	url = https://gist.github.com/568d4cbaba64de14c8e1b91e38466065.git
+[submodule "VisualMetronome2"]
+	path = VisualMetronome2
+	url = https://gist.github.com/49a70e7518040c727fa65f9a5e9da623.git
