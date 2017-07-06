@@ -25,3 +25,6 @@
 [submodule "VisualMetronome2"]
 	path = VisualMetronome2
 	url = https://gist.github.com/49a70e7518040c727fa65f9a5e9da623.git
+[submodule "CashRegister"]
+	path = CashRegister
+	url = https://gist.github.com/cc084c22164fbf29e9a73875f7c2b582.git
