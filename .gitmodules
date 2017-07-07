@@ -28,3 +28,6 @@
 [submodule "CashRegister"]
 	path = CashRegister
 	url = https://gist.github.com/cc084c22164fbf29e9a73875f7c2b582.git
+[submodule "FlooringCalc"]
+	path = FlooringCalc
+	url = https://gist.github.com/94e0f27935bab7b56b82ab2b81a91da4.git
