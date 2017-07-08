@@ -31,3 +31,6 @@
 [submodule "FlooringCalc"]
 	path = FlooringCalc
 	url = https://gist.github.com/94e0f27935bab7b56b82ab2b81a91da4.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://gist.github.com/6e494dbcf58683a4e779c360eb34e1a2.git
