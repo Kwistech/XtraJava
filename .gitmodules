@@ -34,3 +34,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://gist.github.com/6e494dbcf58683a4e779c360eb34e1a2.git
+[submodule "AlarmClock"]
+	path = AlarmClock
+	url = https://gist.github.com/7e529997ea560b742c6412d6258279bb.git
