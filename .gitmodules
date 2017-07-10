@@ -40,3 +40,6 @@
 [submodule "CaesarCipher"]
 	path = CaesarCipher
 	url = https://gist.github.com/72949c9183f31dfec87dfc415aba2cbb.git
+[submodule "AreaCalc"]
+	path = AreaCalc
+	url = https://gist.github.com/e0a7459df28cc6565081cc2a437af3fb.git
