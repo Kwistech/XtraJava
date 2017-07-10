@@ -37,3 +37,6 @@
 [submodule "AlarmClock"]
 	path = AlarmClock
 	url = https://gist.github.com/7e529997ea560b742c6412d6258279bb.git
+[submodule "CaesarCipher"]
+	path = CaesarCipher
+	url = https://gist.github.com/72949c9183f31dfec87dfc415aba2cbb.git
