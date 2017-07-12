@@ -43,3 +43,6 @@
 [submodule "AreaCalc"]
 	path = AreaCalc
 	url = https://gist.github.com/e0a7459df28cc6565081cc2a437af3fb.git
+[submodule "FibonacciExample"]
+	path = FibonacciExample
+	url = https://gist.github.com/7312d165dfae7d1086be75087933a071.git
