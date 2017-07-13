@@ -46,3 +46,6 @@
 [submodule "FibonacciExample"]
 	path = FibonacciExample
 	url = https://gist.github.com/7312d165dfae7d1086be75087933a071.git
+[submodule "BudgetTracker"]
+	path = BudgetTracker
+	url = https://gist.github.com/eee2facbff04675e40699595b4f67308.git
