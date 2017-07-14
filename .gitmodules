@@ -49,3 +49,6 @@
 [submodule "BudgetTracker"]
 	path = BudgetTracker
 	url = https://gist.github.com/eee2facbff04675e40699595b4f67308.git
+[submodule "WeightConverter"]
+	path = WeightConverter
+	url = https://gist.github.com/e95e717ea8fc4c2d2aafec3705e46738.git
