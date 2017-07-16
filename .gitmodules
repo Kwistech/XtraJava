@@ -52,3 +52,6 @@
 [submodule "WeightConverter"]
 	path = WeightConverter
 	url = https://gist.github.com/e95e717ea8fc4c2d2aafec3705e46738.git
+[submodule "RuleOf72"]
+	path = RuleOf72
+	url = https://gist.github.com/d2009d357b8df78664c124fb7de59e83.git
