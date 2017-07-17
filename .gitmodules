@@ -55,3 +55,6 @@
 [submodule "RuleOf72"]
 	path = RuleOf72
 	url = https://gist.github.com/d2009d357b8df78664c124fb7de59e83.git
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://gist.github.com/49046727c7755cd3ab73ce5bed767bfa.git
