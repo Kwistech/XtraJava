@@ -58,3 +58,6 @@
 [submodule "TicTacToe"]
 	path = TicTacToe
 	url = https://gist.github.com/49046727c7755cd3ab73ce5bed767bfa.git
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = https://gist.github.com/366523baf11ebb8eab82df403d0c116d.git
