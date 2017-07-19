@@ -61,3 +61,6 @@
 [submodule "RockPaperScissors"]
 	path = RockPaperScissors
 	url = https://gist.github.com/366523baf11ebb8eab82df403d0c116d.git
+[submodule "Nim"]
+	path = Nim
+	url = https://gist.github.com/bde61324750eb359c04aa913aa2b29fb.git
