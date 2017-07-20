@@ -64,3 +64,6 @@
 [submodule "Nim"]
 	path = Nim
 	url = https://gist.github.com/bde61324750eb359c04aa913aa2b29fb.git
+[submodule "Clock"]
+	path = Clock
+	url = https://gist.github.com/a30bcb78216046066f1fd20190e961d0.git
