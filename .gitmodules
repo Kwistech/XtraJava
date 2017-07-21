@@ -67,3 +67,6 @@
 [submodule "Clock"]
 	path = Clock
 	url = https://gist.github.com/a30bcb78216046066f1fd20190e961d0.git
+[submodule "GrayScale"]
+	path = GrayScale
+	url = https://gist.github.com/b1f940a667a710bec7283d2a4f8c186d.git
