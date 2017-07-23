@@ -76,3 +76,6 @@
 [submodule "WesternMusicTheory"]
 	path = WesternMusicTheory
 	url = https://gist.github.com/a377520211eb89cc7b67796708aaa1b8.git
+[submodule "ReverseContribution"]
+	path = ReverseContribution
+	url = https://gist.github.com/86de6a15d0c7a0423284fb5c7904a0e3.git
