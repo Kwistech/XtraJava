@@ -73,3 +73,6 @@
 [submodule "TypingGame"]
 	path = TypingGame
 	url = https://gist.github.com/7f86481d6824aa4eeebc3a31af85587e.git
+[submodule "WesternMusicTheory"]
+	path = WesternMusicTheory
+	url = https://gist.github.com/a377520211eb89cc7b67796708aaa1b8.git
