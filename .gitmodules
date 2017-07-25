@@ -79,3 +79,6 @@
 [submodule "ReverseContribution"]
 	path = ReverseContribution
 	url = https://gist.github.com/86de6a15d0c7a0423284fb5c7904a0e3.git
+[submodule "FileCopier"]
+	path = FileCopier
+	url = https://gist.github.com/3908ffaac4e6644daf6ba70ef3c908d7.git
