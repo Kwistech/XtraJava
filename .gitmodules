@@ -82,3 +82,6 @@
 [submodule "FileCopier"]
 	path = FileCopier
 	url = https://gist.github.com/3908ffaac4e6644daf6ba70ef3c908d7.git
+[submodule "DeckOfCards"]
+	path = DeckOfCards
+	url = https://gist.github.com/Kwistech/c278b7d3fd1eeff4faf110960a7fcef0
