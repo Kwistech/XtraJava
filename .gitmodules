@@ -85,3 +85,6 @@
 [submodule "DeckOfCards"]
 	path = DeckOfCards
 	url = https://gist.github.com/Kwistech/c278b7d3fd1eeff4faf110960a7fcef0
+[submodule "Turtle"]
+	path = Turtle
+	url = https://gist.github.com/6e5d6d2d48cfb8abc7c4747a0ea7fd5c.git
