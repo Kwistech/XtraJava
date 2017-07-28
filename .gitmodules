@@ -88,3 +88,6 @@
 [submodule "Turtle"]
 	path = Turtle
 	url = https://gist.github.com/6e5d6d2d48cfb8abc7c4747a0ea7fd5c.git
+[submodule "Product"]
+	path = Product
+	url = https://gist.github.com/cc7d3d1005f724a99e7b575166f879cd.git
