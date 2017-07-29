@@ -91,3 +91,6 @@
 [submodule "Product"]
 	path = Product
 	url = https://gist.github.com/cc7d3d1005f724a99e7b575166f879cd.git
+[submodule "Shelf"]
+	path = Shelf
+	url = https://gist.github.com/01cb7da8b622807c35c9c230e5a89c31.git
