@@ -94,3 +94,6 @@
 [submodule "Shelf"]
 	path = Shelf
 	url = https://gist.github.com/01cb7da8b622807c35c9c230e5a89c31.git
+[submodule "Section"]
+	path = Section
+	url = https://gist.github.com/feeef0e4025324f9e914bb384b6cb2d1.git
