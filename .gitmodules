@@ -100,3 +100,6 @@
 [submodule "Aisle"]
 	path = Aisle
 	url = https://gist.github.com/018f291b651cc2c52b694804518917f4.git
+[submodule "Store"]
+	path = Store
+	url = https://gist.github.com/39f70c415312ae76659fff433791fb04.git
