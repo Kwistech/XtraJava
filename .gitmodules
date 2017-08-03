@@ -103,3 +103,6 @@
 [submodule "Store"]
 	path = Store
 	url = https://gist.github.com/39f70c415312ae76659fff433791fb04.git
+[submodule "Department"]
+	path = Department
+	url = https://gist.github.com/c120034248cbe15431ad38d9a014f7b0.git
