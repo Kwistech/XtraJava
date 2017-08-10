@@ -109,3 +109,6 @@
 [submodule "VernamCipher"]
 	path = VernamCipher
 	url = https://gist.github.com/f30d717f47483adbf72d42f7d431331b.git
+[submodule "Account"]
+	path = Account
+	url = https://gist.github.com/8d71f4393170640684d02b6e1dc7087f.git
