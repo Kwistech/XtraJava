@@ -112,3 +112,6 @@
 [submodule "Account"]
 	path = Account
 	url = https://gist.github.com/8d71f4393170640684d02b6e1dc7087f.git
+[submodule "ChequingAccount"]
+	path = ChequingAccount
+	url = https://gist.github.com/d4ef828742788b90d74cad5ea6f387ec.git
