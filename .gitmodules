@@ -121,3 +121,6 @@
 [submodule "InsufficientFundsException"]
 	path = InsufficientFundsException
 	url = https://gist.github.com/2ead8eb1ef2a6f148e4a42bc3516b6d6.git
+[submodule "BankingDemo"]
+	path = BankingDemo
+	url = https://gist.github.com/113eaa2c7caf109dfe7550007c97ab90.git
