@@ -124,3 +124,6 @@
 [submodule "BankingDemo"]
 	path = BankingDemo
 	url = https://gist.github.com/113eaa2c7caf109dfe7550007c97ab90.git
+[submodule "SalesTracker"]
+	path = SalesTracker
+	url = https://gist.github.com/11d721fc511a92a1797862c0743d584c.git
