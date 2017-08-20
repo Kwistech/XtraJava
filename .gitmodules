@@ -127,3 +127,6 @@
 [submodule "SalesTracker"]
 	path = SalesTracker
 	url = https://gist.github.com/11d721fc511a92a1797862c0743d584c.git
+[submodule "Total"]
+	path = Total
+	url = https://gist.github.com/5b57b5602f54084df93218acb6fd7575.git
