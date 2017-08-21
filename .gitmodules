@@ -130,3 +130,6 @@
 [submodule "Total"]
 	path = Total
 	url = https://gist.github.com/5b57b5602f54084df93218acb6fd7575.git
+[submodule "LatteFactor"]
+	path = LatteFactor
+	url = https://gist.github.com/1884e6663f5b4d708e070ce46b669466.git
