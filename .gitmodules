@@ -133,3 +133,6 @@
 [submodule "LatteFactor"]
 	path = LatteFactor
 	url = https://gist.github.com/1884e6663f5b4d708e070ce46b669466.git
+[submodule "BubbleSort"]
+	path = BubbleSort
+	url = https://gist.github.com/af169139d2fd90e757a2c7a0c721c442.git
