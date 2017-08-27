@@ -139,3 +139,6 @@
 [submodule "PartitionArray"]
 	path = PartitionArray
 	url = https://gist.github.com/dfefcb4bfa53f1b302621eb4538d87c8.git
+[submodule "QuickSort"]
+	path = QuickSort
+	url = https://gist.github.com/298d8e8cafa76de4d08cd547fc1821a2.git
