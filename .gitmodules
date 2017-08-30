@@ -142,3 +142,6 @@
 [submodule "QuickSort"]
 	path = QuickSort
 	url = https://gist.github.com/298d8e8cafa76de4d08cd547fc1821a2.git
+[submodule "QuickSortDemo"]
+	path = QuickSortDemo
+	url = https://gist.github.com/905da371282654222f17e6057123541f.git
