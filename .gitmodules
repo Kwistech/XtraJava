@@ -145,3 +145,6 @@
 [submodule "QuickSortDemo"]
 	path = QuickSortDemo
 	url = https://gist.github.com/905da371282654222f17e6057123541f.git
+[submodule "StringPermutation"]
+	path = StringPermutation
+	url = https://gist.github.com/9521d3e353012f251a03f6f7ce85f959.git
