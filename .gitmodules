@@ -148,3 +148,6 @@
 [submodule "StringPermutation"]
 	path = StringPermutation
 	url = https://gist.github.com/9521d3e353012f251a03f6f7ce85f959.git
+[submodule "VisualMetronome3"]
+	path = VisualMetronome3
+	url = https://gist.github.com/fd61bbaa9309f8da0d5f72b68cd406c4.git
